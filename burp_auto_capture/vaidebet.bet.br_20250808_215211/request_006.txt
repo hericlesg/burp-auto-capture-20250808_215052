@@ -1,0 +1,17 @@
+POST /api/generic/register/secure-register HTTP/2
+Host: vaidebet.bet.br
+Cookie: fb_utm_source=undefined; _gcl_au=1.1.887014854.1752362541.1935678032.1754700676.1754700717; _ga_833TYZP13Q=GS2.1.s1754700642$o10$g0$t1754700642$j60$l0$h0; _ga=GA1.1.663154045.1752362541; _ga_PJ5V85MP8Z=GS2.1.s1754700642$o10$g1$t1754700676$j26$l0$h0; _fbp=fb.2.1752362541477.92410640379217825; _tt_enable_cookie=1; _ttp=01K00F4RS4QV1NA0E92FGQ8YB0_.tt.2; ttcsid_CQPR8FJC77UD2I8MH3T0=1754700644161::LfxPPFLvUX8Fqpbe3459.8.1754700717276; ttcsid=1754700644162::xprLlGbHo-s7XzoIp6vp.8.1754700717276; _ga_9DV344ZVDG=GS2.1.s1754700644$o9$g1$t1754700645$j59$l0$h0; _sp_srt_id.28f7=dd0634a5-c07f-4d25-aa5c-27082449050e.1752362543.8.1754700645.1752468542.d8d14f18-e823-49be-af47-44438f90ed1f.cd05e5e4-8f2e-4607-a7cb-5a47ee564414...0; _hjSessionUser_3908100=eyJpZCI6ImVkODcxOTQ1LWJmMDktNTk2YS1hNDViLTc2MTU4Mzc1OWMyYiIsImNyZWF0ZWQiOjE3NTI0MjI5NjI0NTgsImV4aXN0aW5nIjp0cnVlfQ==; __smartico_ls_id=0dd47357-676f-462b-af4f-e85144ecbd4b; em=undefined; btag=null; NCC=PTB; lang=ptb; _hjSession_3908100=eyJpZCI6ImIxZGIzZTU5LTFjY2YtNDJkYi1hZTk2LTI4ZmJhYmNkNjM4MCIsImMiOjE3NTQ3MDA2NDM2NTUsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; _sp_srt_ses.28f7=*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 1654
+Referer: https://vaidebet.bet.br/ptb/authentication/signup
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Cache-Control: no-cache
+
+{"requestBody":{"encryptedPayload":"6huUNy6SPgeKMGH+jYqDe95tWlmU1hm/5EZ5DupUjkhxx7KI0IN/AO1M4Q3vb6vg1F3eKHEmz4ymkino7BXFTw8iJyA18izpbt6Lr0y1qRfuBoPlAlZdD8ExZ7Bq1XcdkzbIuH/okd6ez5CsRedHKmqlBjCUpApNMay9qi0kJbHIXVHGWEA6VA/rWv0LDWQVUOMz9C4awYocId7cljsD3SHjM0LbEB8T7mSPNQXtGJuiNo1w6H5yd0wSSw1r7/2Pb22fGGN+yYcjwHVbV9/NwL7XPxqYRzYQzPDWfHJAFrXiPCTNA2pI3NwRsML/kofrqvnlZmYXak7NGr59c8/8FcnfbJK/vYEDH0Yc0h7U0rGqqC6GFRMrcWEOLjLbwoY9p+lLcThyN6pZokbaQUWfUJq9SmabdrqSXCeQF10P57W2+bMSSq8uieAQm9Jzze/qMENn7PQsPvk8+Cn5AGtttpwsS4pOkmYq0BbsMWakiltTwU+nLhjateNKo573KQzETjT1S5RhTFHMj6lk+ankcqiMZgHUuniZ+NeWxtZjhmTjqXEkNwDx7Cl3/u/X2SHf3ThGmMb4Cnf+I6JYH7g8eg3URCvDdQykrxhHtb9I3JdKQFmP4xzRfhrSWsy1cO+K/ULoiGR7dW03ZTyhJ6/LuBJHpjBhDTL0ihL8Ped2q7h+ZZa2aPLrEBhWgx1deHwUQP1Znufmxcgqs9p2xyxLFB6MkYVnLLXVxv23jgjjOysIrahHTU+82t2+6X9wgBlPfjx/CF6f8c5nt6CMBSKjlTW6ZchrIucVrR78HhClXxddiuAR04Cbsk9L/dn9OZeLdwulZB2GFQhlEh+qP0v3MR1OYuLLX2L43Qcdv+bmgCxFEgcgA0NzWOyVFMT3fwjee9LmI8tsku9tOdTMP8gv+5FcNXP9E8Zy7zWgPhIHeVU6pPZZVCOSmbo/1c/EqlDgtF1fP0V5X46c2AEa/q7Djh+cqrlbZNPyO3ZONWZr9pI1OU8svNDSu/twIdGxrkPwedBgTON31lgPDJMM2w1sMXdzdcR5j770AuH1S1AwH22ELn07cKzLpIuD7QqF5kpS9HOubxZY9AV8sXYlMhW6xc6MKk3AXs3yzA4xfMWCFY1IMivGRBEoPTB3lTnL2VFD9UxM4RJtA8e6TArrFiJ4JeQiq9eEUYQgC+FQ+eBi9ZtuGBn85MhxrfzjAegNqlD10FpSZ6WFKF3EgBnUmxfmc48qxkHpXzkOtKedNPiVDptlbLZi+NBTuMy8Wti+wkh0TPhFafyhpuF6U+4hhJ+DZ9R3+Pa/VvLw8TwuempgTrE4V7ogtZJyLyGa57YOiK+cyklkapzJf80EOj5w1Jo77hWGmmhtq1VaeBUkw9Fhvy4rKVmDFwuH+pZlYPby96UC","encryptedKey":"RTLx/kbqwPl3FPS4rI3RZ9ADTNz5cqILJyyu1SCMpoOdcQRpgjfZSnLrVOL9jDqCqGg0fbRoCB/1Mwlw7vp7Ew==","iv":"MzQyMTRiMDUyYjgzODkyMw==","transformation":"AES/CBC/PKCS7Padding"},"languageId":23,"device":"d"}
