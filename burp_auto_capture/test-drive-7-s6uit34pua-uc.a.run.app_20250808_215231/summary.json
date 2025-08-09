@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250808_215231", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/test-drive-7-s6uit34pua-uc.a.run.app_20250808_215231/request_001.txt", 
+      "url": "https://test-drive-7-s6uit34pua-uc.a.run.app:443/events/890f11a5a352f60e824804fe483521a17b97e1786e691944ba89e2ea828ea3d8", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/test-drive-7-s6uit34pua-uc.a.run.app_20250808_215231/response_001.txt", 
+      "timestamp": 1754700721081
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/test-drive-7-s6uit34pua-uc.a.run.app_20250808_215231/request_002.txt", 
+      "url": "https://test-drive-7-s6uit34pua-uc.a.run.app:443/events/890f11a5a352f60e824804fe483521a17b97e1786e691944ba89e2ea828ea3d8", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/test-drive-7-s6uit34pua-uc.a.run.app_20250808_215231/response_002.txt", 
+      "timestamp": 1754700730016
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/test-drive-7-s6uit34pua-uc.a.run.app_20250808_215231/request_003.txt", 
+      "url": "https://test-drive-7-s6uit34pua-uc.a.run.app:443/events/890f11a5a352f60e824804fe483521a17b97e1786e691944ba89e2ea828ea3d8", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/test-drive-7-s6uit34pua-uc.a.run.app_20250808_215231/response_003.txt", 
+      "timestamp": 1754700733755
+    }
+  ], 
+  "host": "test-drive-7-s6uit34pua-uc.a.run.app", 
+  "total_requests": 3
+}
