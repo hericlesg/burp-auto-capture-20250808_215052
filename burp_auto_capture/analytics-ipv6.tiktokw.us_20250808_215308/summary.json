@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250808_215308", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics-ipv6.tiktokw.us_20250808_215308/request_001.txt", 
+      "url": "https://analytics-ipv6.tiktokw.us:443/ipv6/enrich_ipv6", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/analytics-ipv6.tiktokw.us_20250808_215308/response_001.txt", 
+      "timestamp": 1754700717637
+    }
+  ], 
+  "host": "analytics-ipv6.tiktokw.us", 
+  "total_requests": 1
+}
