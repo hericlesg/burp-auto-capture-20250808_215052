@@ -1,0 +1,17 @@
+POST /ipv6/enrich_ipv6 HTTP/2
+Host: analytics-ipv6.tiktokw.us
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 2030
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Cache-Control: no-cache
+
+{"event":"EnrichIpv6","event_id":"","message_id":"messageId-1754700717278-6029132034804-CQPR8FJC77UD2I8MH3T0#source=2","is_onsite":false,"timestamp":"2025-08-09T00:51:57.278Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"01K00F4RS4QV1NA0E92FGQ8YB0_.tt.2","auto_email":"db0dff2bbc4143b42cae235b3037b12d1926c0b92cdb9c9e0311f2d6a6d397ef","auto_phone_number":"589a2f2d2b89a0f01462b49912c1e811aba534e747ed6398c3ba774deca54a9c"},"pixel":{"code":"CQPR8FJC77UD2I8MH3T0","runtime":"1"},"page":{"url":"https://vaidebet.bet.br/ptb/authentication/signup","referrer":"https://vaidebet.bet.br/ptb/bet/main","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.1"},"session_id":"e0e34a0d-74ba-11f0-aa1b-0200171423cc::gzWNh_iTLa0jcIOf5lYE-CQPR8FJC77UD2I8MH3T0","pageview_id":"e0e34a0d-74ba-11f0-aa1b-0200171423cc-xBspT.0.1::e0e3344e-74ba-11f0-aa1b-0200171423cc-CQPR8FJC77UD2I8MH3T0","variation_id":"default","csid":"1754700644161::LfxPPFLvUX8Fqpbe3459","page_csid":"1754700644162::xprLlGbHo-s7XzoIp6vp","csct":8,"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"},"_inspection":{"identity_params":{"email_is_hashed":["empty_value"],"sha256_email":["empty_value"],"phone_is_hashed":["empty_value"],"sha256_phone":["empty_value"],"zip_code":["empty_value"]},"ppf":[{"id":2,"d":3000},{"id":3,"d":2000}],"vids":"74169685,74169794"},"properties":{"auto_trigger_type":"8,4-1"},"partner":"GoogleTagManagerClient","signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"valid"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"invalid","abnormal_types":["invalid_country"],"suggested_values":["d8ad4b88de7952634b74c9a52e1034ffc8d98687f0844d7be427d2c5c4e82cf0","70cda692c2e710341b06ba231c6bde60adc638abff2ca86a61825be6dea223ab"]},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"},"raw_eb_email":{"label":"missing"},"raw_eb_phone":{"label":"missing"}},"trigger_event":"EnrichAM"}
