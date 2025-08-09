@@ -1,0 +1,18 @@
+POST /events/890f11a5a352f60e824804fe483521a17b97e1786e691944ba89e2ea828ea3d8 HTTP/2
+Host: test-drive-7-s6uit34pua-uc.a.run.app
+Cookie: cee=xPiyqQ8WekiAw7J%2Bh4zEb2K1Q0brIxYVvhmnR7G1uJ0%3D.%7B%22em%22%3A%22525ef710eb8be8b2f0f113d05dba94fa468a40d4b30be41284f085c965b26547%22%2C%22ph%22%3A%22cd97be3d3830a0a67223be2a3b98d7d960892c15153009befb8955f8a3f8ddb9%22%2C%22fn%22%3A%2299afbf6aeec0e266c982f8588c97f1c70ee784b0c1030b0dde1e1b5d62ba3fe7%22%7D; cee=xPiyqQ8WekiAw7J%2Bh4zEb2K1Q0brIxYVvhmnR7G1uJ0%3D.%7B%22em%22%3A%22525ef710eb8be8b2f0f113d05dba94fa468a40d4b30be41284f085c965b26547%22%2C%22ph%22%3A%22cd97be3d3830a0a67223be2a3b98d7d960892c15153009befb8955f8a3f8ddb9%22%2C%22fn%22%3A%2299afbf6aeec0e266c982f8588c97f1c70ee784b0c1030b0dde1e1b5d62ba3fe7%22%7D
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Referer: https://vaidebet.bet.br/
+Content-Length: 516
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Cache-Control: no-cache
+
+{"event_name":"PageView","fb.dynamic_product_ads":{},"custom_data":{},"event_id":"ob3_plugin-set_73e59f4543ae6e0642d6fc739a56a95df742ad2f0a5d64aed9ca62fe3c2b4d39","fb.pixel_id":"932982895435244","fb.advanced_matching":{},"website_context":{"location":"https://vaidebet.bet.br/ptb/authentication/signup","referrer":"","isInIFrame":false},"fb.fbp":"fb.2.1752362541477.92410640379217825","event_meta_info":{"experiment_detail":{"name":"use_always_retry","is_exposed":true,"is_in_control":false,"is_in_treatment":true}}}
