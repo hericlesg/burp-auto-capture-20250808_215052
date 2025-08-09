@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Sat, 09 Aug 2025 00:51:16 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+Vary: Accept-Encoding
+X-App-Fe-Client-Version: 0
+X-Cache: Miss from cloudfront
+Via: 1.1 02b9f097e6bccd6a8d89ebf056435cb4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 5kqqK0Zl24D2ud3S8gculKhhB-ppd-kHaFzUc53Aw2thRthXjwH9kw==
+
+{"success":true,"responseCodes":[],"data":{"firstName":"RE**N","secondName":"CA**************Z","surname":"TA***R","birthdate":"1990-01-29","deceased":false,"pep":false}}
