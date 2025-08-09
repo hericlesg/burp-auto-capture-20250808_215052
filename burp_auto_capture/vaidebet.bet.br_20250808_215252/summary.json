@@ -1,0 +1,103 @@
+{
+  "capture_timestamp": "20250808_215252", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_001.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/register/isvalidcpf?query=10355212617", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_001.txt", 
+      "timestamp": 1754700675496
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_002.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/register/getCustomerByCpfNumber?cpfNumber=10355212617", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_002.txt", 
+      "timestamp": 1754700677189
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_003.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/register/isvalidusername?query=rena09534", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_003.txt", 
+      "timestamp": 1754700687217
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_004.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/register/isvaliduseremail?query=renan300@gmail.com", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_004.txt", 
+      "timestamp": 1754700694506
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_005.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/register/wrapping-key-certificate", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_005.txt", 
+      "timestamp": 1754700718417
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_006.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/register/secure-register", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_006.txt", 
+      "timestamp": 1754700720249
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_007.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/getWebModuleContentByCode/vaidebet.bet.br/signupSuccess/d/23", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_007.txt", 
+      "timestamp": 1754700721585
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_008.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/getCustomEventsModules?lang=23&device=d", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_008.txt", 
+      "timestamp": 1754700730989
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_009.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/getCustomEventsModules?lang=23&device=d", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_009.txt", 
+      "timestamp": 1754700731074
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_010.txt", 
+      "url": "https://vaidebet.bet.br:443/api/user/promotions/listClaimablePromotionsActivation", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_010.txt", 
+      "timestamp": 1754700734373
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_011.txt", 
+      "url": "https://vaidebet.bet.br:443/api/user/casinoapi/getClaimableBonuses", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_011.txt", 
+      "timestamp": 1754700734378
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/request_012.txt", 
+      "url": "https://vaidebet.bet.br:443/api/generic/register/isvalidcpf?query=09124858412", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250808_215252/response_012.txt", 
+      "timestamp": 1754700746989
+    }
+  ], 
+  "host": "vaidebet.bet.br", 
+  "total_requests": 12
+}
