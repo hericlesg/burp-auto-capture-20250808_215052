@@ -1,0 +1,13 @@
+HTTP/1.1 101 Switching Protocols
+Connection: upgrade
+Server: nginx
+Date: Sat, 09 Aug 2025 00:52:11 GMT
+X-Atmosphere-first-request: true
+X-Atmosphere-tracking-id: 91f3a172-8254-4df6-85bf-5d512ee79a9d
+Sec-WebSocket-Accept: 2by5l+512U0orKfMkbRxMeyP3xo=
+Upgrade: WebSocket
+X-Cache: Miss from cloudfront
+Via: 1.1 5ce3e5cdb267b1d37099ec959c651ac4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P9
+X-Amz-Cf-Id: KPw0t3w-3uTxgGKipm-QtGTqgNwE293bOZ4E37hOOFmzUBjaeoR4Kw==
+
