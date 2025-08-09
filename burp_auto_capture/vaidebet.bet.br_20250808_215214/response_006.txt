@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Sat, 09 Aug 2025 00:52:00 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+Vary: Accept-Encoding
+X-App-Fe-Client-Version: 0
+X-Geoip-Country-Code: BR
+X-Cache: Miss from cloudfront
+Via: 1.1 64728acddeb290ea8e95d7ffd4d64ae2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 2cUd2i4nGXRoDswwtLntt6kmuyfiihvw9PJ01wWVG6rTKCSAr1wWMA==
+
+{"success":true,"responseCodes":[],"data":{"customerId":70291223,"traderId":537,"languageId":23,"currencyId":12,"username":"rena09534","code":"2025088160886","kycVerified":false}}
