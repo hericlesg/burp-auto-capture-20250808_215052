@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Sat, 09 Aug 2025 00:52:01 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+Expires: Sat, 09 Aug 2025 01:52:01 GMT
+Cache-Control: max-age=3600
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 64728acddeb290ea8e95d7ffd4d64ae2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: TEQ5One7jK0xQM7tW90Lfmks0uLEzt7eXrnPb0Y8IHNA7MPNJM3WSw==
+
+{"success":true,"responseCodes":[{"responseCode":1,"responseKey":"SUCCESS","responseMessage":""}],"data":[{"traderWebModuleId":11401,"webModuleId":490,"traderId":537,"languageId":23,"moduleContent":"<!-- Conversion Pixel - BR_BETPIX365_register - DO NOT MODIFY -->\r\n<img src=\"https://secure.adnxs.com/px?id=1557790&seg=29228735&t=2\" width=\"1\" height=\"1\" alt=\"secure\"/>\r\n<!-- End of Conversion Pixel -->","deleteFlag":false,"lastUpdateDate":1729673081000,"device":"d","onlyLoggedUsers":false,"webModule":{"webModuleId":490,"moduleCode":"signupSuccess","moduleName":"Sign up Success","isActive":true,"isPrintable":false},"moduleCode":"signupSuccess","isPrintable":false}]}
