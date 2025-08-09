@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250808_215306", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/bragi-ws.sportingtech.com_20250808_215306/request_001.txt", 
+      "url": "https://bragi-ws.sportingtech.com:443/overview/vaidebet.com/23/0?X-Atmosphere-tracking-id=0&X-Atmosphere-Framework=2.3.8-javascript&X-Atmosphere-Transport=websocket&Content-Type=application/json&device=d", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/bragi-ws.sportingtech.com_20250808_215306/response_001.txt", 
+      "timestamp": 1754700731255
+    }
+  ], 
+  "host": "bragi-ws.sportingtech.com", 
+  "total_requests": 1
+}
