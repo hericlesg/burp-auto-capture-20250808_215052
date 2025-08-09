@@ -1,0 +1,13 @@
+GET /api/generic/register/getCustomerByCpfNumber?cpfNumber=10355212617 HTTP/2
+Host: vaidebet.bet.br
+Cookie: fb_utm_source=undefined; _gcl_au=1.1.887014854.1752362541.1935678032.1754700676.1754700676; _ga_833TYZP13Q=GS2.1.s1754700642$o10$g0$t1754700642$j60$l0$h0; _ga=GA1.1.663154045.1752362541; _ga_PJ5V85MP8Z=GS2.1.s1754700642$o10$g1$t1754700676$j26$l0$h0; _fbp=fb.2.1752362541477.92410640379217825; _tt_enable_cookie=1; _ttp=01K00F4RS4QV1NA0E92FGQ8YB0_.tt.2; ttcsid_CQPR8FJC77UD2I8MH3T0=1754700644161::LfxPPFLvUX8Fqpbe3459.8.1754700644979; ttcsid=1754700644162::xprLlGbHo-s7XzoIp6vp.8.1754700644744; _ga_9DV344ZVDG=GS2.1.s1754700644$o9$g1$t1754700645$j59$l0$h0; _sp_srt_id.28f7=dd0634a5-c07f-4d25-aa5c-27082449050e.1752362543.8.1754700645.1752468542.d8d14f18-e823-49be-af47-44438f90ed1f.cd05e5e4-8f2e-4607-a7cb-5a47ee564414...0; _hjSessionUser_3908100=eyJpZCI6ImVkODcxOTQ1LWJmMDktNTk2YS1hNDViLTc2MTU4Mzc1OWMyYiIsImNyZWF0ZWQiOjE3NTI0MjI5NjI0NTgsImV4aXN0aW5nIjp0cnVlfQ==; __smartico_ls_id=0dd47357-676f-462b-af4f-e85144ecbd4b; em=undefined; btag=null; NCC=PTB; lang=ptb; _hjSession_3908100=eyJpZCI6ImIxZGIzZTU5LTFjY2YtNDJkYi1hZTk2LTI4ZmJhYmNkNjM4MCIsImMiOjE3NTQ3MDA2NDM2NTUsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; _sp_srt_ses.28f7=*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://vaidebet.bet.br/ptb/authentication/signup
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Cache-Control: no-cache
+
