@@ -1,0 +1,17 @@
+GET /overview/vaidebet.com/23/0?X-Atmosphere-tracking-id=0&X-Atmosphere-Framework=2.3.8-javascript&X-Atmosphere-Transport=websocket&Content-Type=application/json&device=d HTTP/1.1
+Host: bragi-ws.sportingtech.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: https://vaidebet.bet.br
+Sec-WebSocket-Key: veQO0i1fD8djJ7bdVYq8Nw==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
